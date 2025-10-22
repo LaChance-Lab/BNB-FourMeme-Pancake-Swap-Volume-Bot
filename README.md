@@ -1,21 +1,21 @@
 # Volume bot on EVM chains
 
 ## Supported chains
-BSC, Ethereum mainnet, (Any EVM chains)
+BSC, Ethereum mainnet, (Any EVM chain)
 
 ## Technology
 
 Languange: Typescript, Solidity
-Type: Bot
+Type: Bot Script
 
-## How to use?
+## How to use the bot?
 
 - You should install node modules by
 ```
 npm i
 ```
 
-- Edit some content in the `.env` file. I already sent you the project with `.env` file.
+- Edit the contents in the `.env` file. I've already sent you the project with `.env` file.
 
 You should input your wallet address and privatekey there.
 ```
