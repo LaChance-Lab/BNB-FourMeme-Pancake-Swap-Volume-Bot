@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0xd4FB97F2Ea5f02897D42078Fffa9009285156776",
+    "privateKey": "0x3f9a8bc497edc46cfaa67b2676c34fc0095a913e7cf47e245d2aba1e56528688",
+    "mnemonic": "hundred brand ripple cement alpha noodle morning carpet cactus thank reflect believe",
+    "amount": "0.001932",
+    "funded": "0.002932"
+  },
+  {
+    "address": "0x583F003B5917a7A49D02de99F12f84A3A925Fc66",
+    "privateKey": "0x5269a181d7cda84bbe390d7c91e1d5926300d53c80df144f52bcfc97bb114b04",
+    "mnemonic": "only imitate claw wear swallow shoot festival dolphin dream detail wolf enrich",
+    "amount": "0.002995",
+    "funded": "0.003995"
+  }
+]

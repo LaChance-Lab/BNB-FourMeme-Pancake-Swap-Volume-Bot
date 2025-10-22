@@ -1,6 +1,7 @@
 import * as fs from 'fs';
 import { ContractAbi } from 'web3';
 import { ChainId } from './types';
+import { BSC_ENDPOINT, BSC_RPC_ENDPOINT, ETH_ENDPOINT, WBNB_ADDRESS, WETH_ADDRESS } from './constants';
 
 export function get_bsc_factory_abi(): ContractAbi {
   const data = fs.readFileSync('abi/bsc_factory_v2.json', 'utf8');

@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x675788C359312fA751982F0a15Db8f7F16048C83",
+    "privateKey": "0xf865133d7e3edb5c341c3ef4d9936c597f12439f8e46ec95de8ad080d7b03dcc",
+    "mnemonic": "rate staff daughter between derive expire short skate announce genre say animal",
+    "amount": "0.000111",
+    "funded": "0.000211"
+  },
+  {
+    "address": "0x90f3e458c752a70192609fAc907789b558BC2F25",
+    "privateKey": "0x30847742a9b225098437a3c03b706ada1af34ea93ec1204d0bf4a8ce991ea178",
+    "mnemonic": "glass lazy swallow rude warrior arm gloom polar joy enough deal wreck",
+    "amount": "0.000359",
+    "funded": 0
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0xa5314608547985f09bFcA60a7943F6dC30C1ac35",
+    "privateKey": "0x993d770d08184353f232eefd1540188a0ffeb23bb1afdc148ef07c7c0dfe3e80",
+    "mnemonic": "program basket educate glad bulb october rigid napkin split venture inner awful",
+    "amount": "0.000013",
+    "funded": 0.00011300000000000001
+  },
+  {
+    "address": "0x987Fe4235B900614Cd8bb0C081ace417b83aDb04",
+    "privateKey": "0xe25e78ecc55de46b80815a2e226afac74d6d34d3db11cb5d857e4b35b257404e",
+    "mnemonic": "satisfy winter public giraffe tragic around stay dune flavor word wheel version",
+    "amount": "0.000028",
+    "funded": 0
+  }
+]

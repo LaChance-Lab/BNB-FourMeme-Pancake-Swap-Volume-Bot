@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0xCEDeC74cC0942bf0f69Bc3575e79bb7686809E6c",
+    "privateKey": "0xc07c91e1073089da1c5e231da0a9b5a2dd610f4fdee696a05cd950b0111bc936",
+    "mnemonic": "frost piano finger media shy skirt paddle peanut circle theory design critic",
+    "amount": "0.001773",
+    "funded": "0.002073"
+  },
+  {
+    "address": "0xA162319f9dF0F8d2ABE3a39683e0b23898436f07",
+    "privateKey": "0xe69889a59138f48666288680493162f65cd7f2a46bc6c31b75c4cadcfb6ec4b9",
+    "mnemonic": "unable swamp monitor dust liquid upon reduce symptom orbit garment symbol conduct",
+    "amount": "0.002112",
+    "funded": "0.002412"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x30418f985E4ED7Dc516746107186a66db6E3a4aA",
+    "privateKey": "0xd914c49b120e8bd211e2b4080fba3acdac15acccec655076902f323093102b68",
+    "mnemonic": "hub power scatter army replace letter student bridge roast crisp select roast",
+    "amount": "0.002356",
+    "funded": "0.002456"
+  },
+  {
+    "address": "0x6C8572b28A6Cec36cdd3144081e2613e2e9e3c03",
+    "privateKey": "0xebfb41076fa4862eaba5c93f932de2af0771bac6aeb40f13824b62d5767e7cd9",
+    "mnemonic": "weird other venue there planet reason raccoon tonight stumble armed title dance",
+    "amount": "0.001352",
+    "funded": 0
+  }
+]
