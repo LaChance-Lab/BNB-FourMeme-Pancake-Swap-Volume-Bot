@@ -1,7 +1,7 @@
 # Volume bot on EVM chains
 
 ## Supported chains
-BSC, Ethereum mainnet
+BSC, Ethereum mainnet, (Any EVM chains)
 
 ## Technology
 
@@ -97,4 +97,5 @@ https://bscscan.com/tx/0xb46d289c48d04dc6cc74849ecd9ef4fff6bf86aa3b16fc231d019b8
 - Randomizing trading amount
 - Randomizing trading frequency (Buy/Sell)
 - Randomizing the pool
+
 
