@@ -8,6 +8,9 @@ BSC, Ethereum mainnet, (Any EVM chain)
 Languange: Typescript, Solidity
 Type: Bot Script
 
+## Contact
+https://t.me/lachancelab
+
 ## How to use the bot?
 
 - You should install node modules by
